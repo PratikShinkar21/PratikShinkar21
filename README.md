@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Amazon Clone**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Java**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Java, C#, MySQL**
 
 - 📫 How to reach me **pratikshinkar21032002@gmail.com**
 
